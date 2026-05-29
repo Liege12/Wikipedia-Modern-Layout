@@ -1,19 +1,20 @@
-# Módulo 3 - Trilha HTML
+# Module 3 - HTML Track
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+**Title:** Rebuilding Wikipedia, with a better layout :)
 
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+## Objective
+This challenge is designed to help you become familiar with website structure and apply the knowledge you’ve gained about semantics and accessibility.
 
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+## Challenge
+This repository contains a pre-built basic structure of a simple layout with a little CSS applied, just to make it look more presentable.
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
+Feel free to design it however you like and on whatever topics you choose. The goal here is to have fun while learning from the challenge.
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+Follow the instructions in the video call. I believe that there, it will be easier for you to understand how to proceed.
 
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
+## Useful Links
+- [Download NVDA](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
+
 
 
